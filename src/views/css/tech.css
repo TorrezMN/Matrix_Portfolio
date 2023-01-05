@@ -1,29 +1,23 @@
+.techContainer {
+  background: black;
+  width: 100vw;
+  height: 100vh;
 
-
-
-.techContainer{
-  background:black;
-  width:100vw;
-  height:100vh;
-
-
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.tech-title:hover{
-  width:100vw;
-  border-bottom:1px solid rgba(0,255,0,1);
-  text-align:center;
-
+.tech-title:hover {
+  width: 100vw;
+  border-bottom: 1px solid rgba(0, 255, 0, 1);
+  text-align: center;
 }
-.tech-title{
-  color:rgba(0,255,0);
-  width:100vw;
-  font-size:2rem;
-  text-align:center;
-  font-family: 'Open Sans Condensed', sans-serif;
+.tech-title {
+  color: rgba(0, 255, 0);
+  width: 100vw;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Open Sans Condensed", sans-serif;
 }
